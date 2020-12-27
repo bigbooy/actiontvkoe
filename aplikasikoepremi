@@ -1285,9 +1285,9 @@ http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28775?token=QhVcUhcJRggXVwMAUFIH
 http://62.210.127.217:8080/P0zgrtbYHX/SE8tqtbfmj/28676?token=QhVcUhcJRggXBVdXAldSUgRQAVBZAAUAVgcGWVABVFFdVlcEXAdQC1BGGURBEkJRAFtpWgVEXlBWVgNYSkAXElxFa1oAQ14QAFIBUgdQEhhDQl9eBEReUlNUBlFeW1ZYDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://i.imgur.com/FCtr1jt.png",FoxActionMovies
 http://62.210.127.9:25461/dKtq90pURF/xCbKqEy8Tp/28775?token=QhVcUhcJRggXVFYHV1dUVVBSAQEFX1JSUVICWQABV1cBUwZRUllQUQxGGURBEkJRAFtpWgVEXlFdUg1USkAXElxFa1oAQ14QA1ABVQZeEhhDQl9eBEReUlNUA1lXUlJSABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="FOXGROUP",FOX Crime HD
+#EXTINF:-1 group-title="FOXGROUP" tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" ,FOX Crime HD
 http://62.210.127.9:25461/0B8gcaCVWSKWF7T1/Zmuqs1uhau6bA6rV/28779?token=QhVcUhcJRggXVFZRBQIIAFkHUAoCVQJUAFxRUARXBFkLU1dXVwVVBwRGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlIEVQNWEhhDQl9eBEReUlNUB1RXW1RUDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="FOXGROUP",FOX LIFE ID
+#EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" ,FOX LIFE ID
 http://62.210.127.217:8080/0B8gcaCVWSKWF7T1/Zmuqs1uhau6bA6rV/28677?token=QhVcUhcJRggXVFZRBQIIAFkHUAoCVQJUAFxRUARXBFkLU1dXVwVVBwRGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlIEVQNWEhhDQl9eBEReUlNUB1RXW1RUDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png",FOXFAMILYMOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
@@ -1329,7 +1329,7 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12541
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12542
 #EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://i.imgur.com/aG0xbIr.png,Fox', Comedy: Low
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/12543
-#EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://i.imgur.com/FCtr1jt.png",FOX-MOVIE
+#EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://i.imgur.com/FCtr1jt.png", FOX-MOVIE
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://i.imgur.com/Lf4lZrG.png",FOXFamily
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1000000.m3u8
@@ -1658,50 +1658,108 @@ http://122.248.43.138:1935/ch26/myStream/live.m3u8
 http://122.248.43.138:1935/ch27/myStream/live.m3u8
 
 
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",MNCTV
-http://nonton.wap.sh/id/005.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",RCTI
-http://nonton.wap.sh/id/006.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",GTV
-http://nonton.wap.sh/id/007.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",INEWSTV
-http://nonton.wap.sh/id/008.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",METROTV
-http://nonton.wap.sh/id/011.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",BERITASATU
-http://nonton.wap.sh/id/015.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",CNNINDONESIA
-http://nonton.wap.sh/id/016.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",CNBCINDONESIA
-http://nonton.wap.sh/id/017.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",TVRI
-http://nonton.wap.sh/id/018.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",ANTV
-http://nonton.wap.sh/id/001.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",INDOSIAR
-http://nonton.wap.sh/id/002.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",TRANSTV
-http://nonton.wap.sh/id/003.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",TRANS7
-http://nonton.wap.sh/id/004.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",SCTV
-http://nonton.wap.sh/id/009.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",TVONE
-http://nonton.wap.sh/id/010.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",NETTVHD
-http://nonton.wap.sh/id/012.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",KOMPASTV
-http://nonton.wap.sh/id/014.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",JogjaTV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",KIX_HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",[V] HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",NHK World Japan
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",DW
+https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Arirang
+https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",CNA
+https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",France 24 (English)
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",TV5 Monde Asie
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Fox Sports
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Fox Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 1
+https://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 2
+https://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 3
+https://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 4
+https://livecdn.fptplay.net/italyfootball/seriea04_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 5
+https://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 6
+https://livecdn.fptplay.net/italyfootball/seriea06_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 7
+https://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 8
+https://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 9
+https://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/wIUw5RB.png",Serie A 10
+https://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",DIGDAYATV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",BandungTV
-http://nonton.wap.sh/lokal/025.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",MADUTV
-http://nonton.wap.sh/lokal/027.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",MGSTV
-http://nonton.wap.sh/lokal/028.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XaQBspc.png" group-title="✨BKZ&ICTv✨",CelestiaMovie
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XaQBspc.png" group-title="✨BKZ&ICTv✨",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XaQBspc.png" group-title="✨BKZ&ICTv✨",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XaQBspc.png" group-title="✨BKZ&ICTv✨",PRIMA
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XaQBspc.png" group-title="✨BKZ&ICTv✨",CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XaQBspc.png" group-title="✨BKZ&ICTv✨",XIAOTAIYANG
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XaQBspc.png" group-title="✨BKZ&ICTv✨",SHUANGXING
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XaQBspc.png" group-title="✨BKZ&ICTv✨",KiX HD
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",MALEO
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/Xeaa2uP.png",TEGARTV
