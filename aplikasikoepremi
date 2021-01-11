@@ -3398,133 +3398,133 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 group-title="SportivoNashya" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042868.png",DUBAIRACINGUAE
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682932
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5710
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681951
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682943
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12961
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6908
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8962
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 HD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 HD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5473
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 Max FHD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 Max FHD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12953
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8961
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 HD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 HD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667466
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668059
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 12 HD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 12 HD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54715
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 12 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 12 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15007
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 [Yedek] HD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 [Yedek] HD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13231
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682933
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12958
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682947
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5481
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15017
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682944
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5709
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 (Yedek) HD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 (Yedek) HD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8740
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53163
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 FHD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 FHD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682934
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 FHD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 FHD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5708
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5480
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12957
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6906
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 SD FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 SD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682945
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8968
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 FHD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 FHD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682949
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5479
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15015
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6905
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 Max FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 Max FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8562
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 FHD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 FHD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682935
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 HD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 HD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5478
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625257
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/89665
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15013
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 Max FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 Max FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8538
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8965
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 HD AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 HD AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5476
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15012
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 Max FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 Max FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8537
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 8 AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 8 AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8964
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 8 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 8 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15011
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8963
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 FHD VIP AR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 FHD VIP AR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682936
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15010
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Espana ES
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Espana ES
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Espanol HD VIP US
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Espanol HD VIP US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678747
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports FHD US
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports FHD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13759
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Haber HD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Haber HD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682950
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beiN Sports HD US
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beiN Sports HD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4902
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports HD US
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports HD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682942
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 1 HD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 1 HD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16006
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 1 HD VIP TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 1 HD VIP TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682953
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 2 HD TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 2 HD TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16005
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 2 HD VIP TR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 2 HD VIP TR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682954
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 5 FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 5 FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53604
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 6 FR
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 6 FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625242
-group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports News HD ARB
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports News HD ARB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15019
 #EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beINSportXtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
