@@ -1579,7 +1579,7 @@ http://fdtvapps.xyz/channel/cinemax.m3u8
 http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/XaQBspc.png",Hbo Family
 http://fdtvapps.xyz/channel/hbofam.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/XaQBspc.png",HBO Hits
+#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/XaQBspc.png",HBO Hits
 http://fdtvapps.xyz/channel/hbohits.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/XaQBspc.png",RedByHbo
 http://fdtvapps.xyz/channel/red.m3u8
