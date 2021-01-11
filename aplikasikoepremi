@@ -2468,6 +2468,602 @@ http://hitmusic.hu/hitmusic.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",K pop
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
+
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AstroSport1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AstroSport2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AstroSport3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AstroSport4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AstroArena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Supersport 1 HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4729
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Supersport 3 FHD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625241
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Supersport 4 FHD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625240
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Supersport 5 FHD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4725
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Action FHD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683568
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Blitz FHD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682921
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport FHD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682920
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Football HD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678024
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Grandstand HD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678031
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport La Liga HD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683001
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Maximo HD AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682919
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport PSL HD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678030
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Variety 1 HD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678020
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Variety 2 HD AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678021
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Variety 3 HD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678022
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",SuperSport Variety 4 HD VIP AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678023
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 1 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682956
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 1 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625254
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 1 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625226
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 10 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682966
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 12 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682969
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 13 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682970
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 14 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682971
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 2 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682957
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 2 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682955
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 2 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/86352
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 3 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682958
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 3 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625250
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 3 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625233
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 4 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682959
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 4 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625253
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 4 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682961
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 5 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682962
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 6 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682963
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport 7 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682964
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RMC Sport News HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624939
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Klub FHD 1 RS
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53164
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Klub FHD 2 RS
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5444
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Klub HD 1 HR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625227
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Klub HD 2 HR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7088
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Klub HD 3 HR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7087
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Klub HD 3 RS
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5443
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Abu Dhabi Sports 1 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5890
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Abu Dhabi Sports 2 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5889
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AD Sports 1 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682978
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AD Sports 2 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682979
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AD Sports 3 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682973
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AD Sports 4 FHD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5404
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",AD Sports 5 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682974
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Africa Sports TV HD AF
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682988
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Auto Motor Sport BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37964
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Auto Motor Sport FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9132
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",BFM Sport FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8560
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Blue Sport 1 FHD CH
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7903
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Blue Sport 2 FHD CH
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677923
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Canal+ Sport FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16926
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Canal+ Sport HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5696
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",CBS Sports Network HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14385
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",CT4 Sport HD CZ
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18695
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",DEL Sport 2 HD [Match Time] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679852
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",DEL Sport 4 HD [Match Time] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679854
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",DEL Sport 6 HD [Match Time] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679856
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Diema Sport 1 BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681649
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Diema Sport 1 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5982
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Diema Sport 2 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5981
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Digi Sport 1 FHD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5454
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",DIGI Sport 1 FHD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/149962
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Digi Sport 1 RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5321
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",DIGI Sport 2 FHD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14995
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Digi Sport 2 HD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5453
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Digi Sport 2 RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5320
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",DIGI Sport 3 FHD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14994
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Digi Sport 3 HD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5452
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Digi Sport 3 RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5319
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Digi Sport 4 HD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682989
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Digi Sport 4 RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5318
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",DMC Sports AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5403
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Dubai Sports 1 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682975
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Dubai Sports 2 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682976
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Dubai Sports 3 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5854
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Dubai Sports 4 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5853
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Dubai Sports AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5855
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eir Sports 1 HD UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682994
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eir Sports 2 HD UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682995
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eleven Sport 1 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51927
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eleven Sport 2 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51926
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eleven Sport 3 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51925
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eleven Sport 4 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51924
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eleven Sport 5 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51923
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8218
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5672
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11444
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7519
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 FHD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5292
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 FHD RU
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/36870
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625815
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 HD CZ
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18690
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8746
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682922
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 HD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12981
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6879
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 1 NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11445
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13531
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9029
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5671
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11443
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7518
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 FHD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5291
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 FHD RU
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/36871
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 HD CZ
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18689
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12951
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 HD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14990
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6878
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Eurosport 2 Xtra FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13163
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Extreme Sports RU
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5361
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sport 2 LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/67132
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 1 HD ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626925
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 1 HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5143
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 1 HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/137256
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 1 US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/63735
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 2 FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6486
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 2 HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/494259
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 2 NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5142
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 2 US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/63365
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 3 FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6485
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 3 HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5141
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 4 FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/64848
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 4 HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/514522
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 5 FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/64338
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 6 FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/131212
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports 6 HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/513821
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14562
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/67322
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Fox Sports North HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14355
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Freesports HD VIP UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682990
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Geo Sports PK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5207
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",InfoSport+ FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5660
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",InfoSport+ HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12952
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Jordan Sport JO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14681
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kombat Sport HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682981
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kombat Sports PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8793
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",KSA Sport 1 FHD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/623168
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",KSA Sport 2 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/623167
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",KSA Sport 3 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679666
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",KSA Sport 4 FHD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679667
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",KTV Sport Plus HD KW
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14774
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kujtesa Sport 1 HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15177
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kujtesa Sport 2 HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/151762
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kujtesa Sport 3 HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/151754
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kujtesa Sport 4 HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15174
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kuwait Sport KW
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5808
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kuwait Sport Plus KW
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4115
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Kuwait Sport TV KW
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4114
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Look Sport HD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5314
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Look Sport Plus RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5313
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Match Sports FHD RU
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5374
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Max Sport 1 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50865
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Max Sport 2 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50866
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Max Sport 3 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/629048
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Max Sport 4 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/641399
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",NBC Sports Network FHD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",NBC Sports Network HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4952
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Nile Sport AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5860
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Nova Sport 1 HD CZ
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18662
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Nova Sport 2 HD CZ
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6057
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",NPO Poltiek/Sport NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5126
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Oman Sport HD OM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5811
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",ON Sport ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21080
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",OSN Alkass Sport 4 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5886
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Premier Sports 1 HD UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682991
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Premier Sports 2 HD UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682992
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",PTV Sports HD PK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5435
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",PTV Sports PK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9212
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RTA sport HD AFG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3645
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",RTSH Sport HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14017
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",S Sport HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8729
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Saudi Sports AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5829
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sharjah Sport HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682977
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 1 [B] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684429
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 1 DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9125
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 1 FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684432
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 1 HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683895
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 10 [Match Time] HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6177
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 2 FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7362
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 2 HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683896
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 3 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13563
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 3 [Match Time] HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6182
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 4 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13562
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 4 [Match Time] HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9127
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 5 FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13561
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 7 [Match Time] HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6180
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 8 [Match Time] HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6179
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport 9 [Match Time] HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6178
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Austria 1 FHD AT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5394
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Austria 2 FHD AT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5393
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13538
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/73136
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684430
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684005
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683408
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683409
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6195
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135258
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62223
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135671
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62220
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/91235
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 5 [Match Time] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62002
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135335
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/619225
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 7 [Match Time] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6198
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6197
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sport Bundesliga 9 [Match Time] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6196
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sports Cricket HD UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684433
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sports Golf HD UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5396
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sports Main Event FHD UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682993
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sports News FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13555
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sky Sports News HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684431
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Smart Sport 1 HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5446
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport 1 HD CZ
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18672
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport 2 HD CZ
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6050
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Digital FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8244
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Digital HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6171
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport Plus FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9022
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV + FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7477
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 1 [B] FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13097
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 1 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8818
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 1 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13096
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 2 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7481
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 2 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8814
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 2 PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13093
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 3 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8817
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 3 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8813
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 3 PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13091
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 4 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8816
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 4 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7479
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 4 PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13089
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 5 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7478
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 5 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8812
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV 5 PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13087
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV1 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5442
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV2 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5441
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport TV3 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5440
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport1 FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6173
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport1 HD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8226
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport1+ FHD DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679847
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sport1+ HD [B] DE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679848
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sporting TV FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7476
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sports TV [B] TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8668
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sports TV TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8737
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sportsnet 360 HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4915
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Sportsnet Ontario HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14317
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Star Sports 1 FHD VIP IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5431
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Star Sports 1 IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3979
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Star Sports 2 FHD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5430
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Star Sports 2 IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/397844
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Star Sports 3 HD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5429
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Star Sports 3 IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3977
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Telekom Sport 1 [B] RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/128252
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Telekom Sport 1 RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53855
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Telekom Sport 2 FHD RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12920
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Telekom Sport 3 RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12979
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Telekom Sport 4 RO
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12042
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",TEN Sports FHD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5433
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ten Sports IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10608
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Time Sports AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5770
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Tivibu Sport 1 FHD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8725
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Tivibu Sport 2 FHD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8724
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Tivibu Sport 3 FHD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8723
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Tring Sport 1 HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4721
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Tring Sport 2 HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21615
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Tring Sport 3 HD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4719
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Tring Sport 4 [Match Time] FHD AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4718
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Viasat Sport FHD RU
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/36879
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",VSport Premium HD SE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5418
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Yas Sport HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682972
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Yas Sports HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/623172
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Docu FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5110
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Extra FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625239
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Golf FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5114
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Golf HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6460
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11387
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Racing FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13119
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Racing HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5111
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Select FHD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53267
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Select HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5113
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Voetbal HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5112
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7",Ziggo Sport Votball HD NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5392
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7" ,JapanSport1
+http://193.42.99.130:23455/3640/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7"  ,JapanSport2
+http://193.42.99.130:23455/3650/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7" ,JapanSport3
+http://193.42.99.130:23455/3660/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel Sport✨" tvg-logo="https://imgur.com/c7cSOJ7"  ,JapanSport4
+http://193.42.99.130:23455/3670/playlist.m3u8
+
 #EXTINF:-1 group-title="SportMix" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg",TrueSportHD1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SportMix" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg",TrueSportHD2
@@ -2801,12 +3397,142 @@ http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby:iptvcat.com
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="SportivoNashya" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042868.png",DUBAIRACINGUAE
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/vnCFJ5a.png",beINSportXtra
+
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682932
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5710
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 FHD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681951
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682943
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12961
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 1 HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6908
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8962
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5473
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 10 Max FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12953
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8961
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667466
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 11 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668059
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 12 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54715
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 12 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15007
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 [Yedek] HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13231
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682933
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12958
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 FHD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682947
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5481
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15017
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682944
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 2 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5709
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 (Yedek) HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8740
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53163
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682934
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5708
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5480
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12957
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6906
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 3 SD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682945
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8968
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 FHD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682949
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5479
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15015
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6905
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 4 Max FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8562
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682935
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5478
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 5 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625257
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/89665
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15013
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 6 Max FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8538
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8965
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5476
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15012
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 7 Max FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8537
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 8 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8964
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 8 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15011
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8963
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 FHD VIP AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682936
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports 9 HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15010
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Espana ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Espanol HD VIP US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678747
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports FHD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13759
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Haber HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682950
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beiN Sports HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4902
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682942
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 1 HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16006
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 1 HD VIP TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682953
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 2 HD TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16005
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 2 HD VIP TR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682954
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 5 FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53604
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports Max 6 FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625242
+group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beIN Sports News HD ARB
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15019
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beINSportXtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/vnCFJ5a.png",beINSportNews
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",beINSportNews
 https://dl.dropbox.com/s/a16m1s4w7ctosro/Bein%20Sports%20News.m3u8?dl=1
-#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/vnCFJ5a.png",BeINSportsXtra
+#EXTINF:-1 group-title="BeINSport" tvg-logo="https://i.imgur.com/qoft0uH.png",BeINSportsXtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
+
 #EXTINF:-1 group-title="NashyaSport" tvg-logo="https://sport-tv-guide.live/images/tv-station-th-fox-sports-3-1045.png",FoxSport3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="NashyaSport" tvg-logo="https://i.imgur.com/Kxem8ae.jpg",FoxSportsNews
