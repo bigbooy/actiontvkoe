@@ -167,7 +167,7 @@ http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",& Flix HD (Opt-1)
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png"& Flix HD (Opt-2)
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",& Flix HD (Opt-2)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",& Prive HD (Opt-1)
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
@@ -1665,7 +1665,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.ibb.co/2MtrDwv/I-Am-Channel.png",IAMChannel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
-#EXTINF:-1 group-title="LOCAL" tvg-logo="http://choslogo.mobie.in/logo/mytv.png",MYTV
+#EXTINF:-1 group-title="LOCAL 1" tvg-logo="http://choslogo.mobie.in/logo/mytv.png",MYTV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://choslogo.mobie.in/logo/ctv.png",CTV
 http://103.23.201.170:1935/live/livestream/playlist.m3u8?checkedby:iptvcat.com
@@ -1673,7 +1673,7 @@ http://103.23.201.170:1935/live/livestream/playlist.m3u8?checkedby:iptvcat.com
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/W48Uxa1.jpg",CANELNEWSHD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://i.imgur.com/W48Uxa1.jpg",VOAINDONESIA
+#EXTINF:-1 group-title="LOCAL 2" tvg-logo="https://i.imgur.com/W48Uxa1.jpg",VOAINDONESIA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="https://choslogo.mobie.in/logo/atg.png",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -1682,7 +1682,8 @@ https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="127.0.0.1",ZQ DRAMA KOREA
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 group-title="✨BKZ&ICTv✨" tvg-logo="127.0.0.1",ZQ SPORT
-http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0#EXTINF:-1 group-title="✨BKZ&ICTv✨",RTM+
+http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 group-title="✨BKZ&ICTv✨",RTM+
 http://www.rtmplus.cz/live/1-playlist.m3u8
 #EXTINF:-1 group-title="✨BKZ&ICTv✨",NileSport
 http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
